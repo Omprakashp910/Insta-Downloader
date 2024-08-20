@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/homeicon"
+        android:title="@string/tab_txt_home"
+        android:checked="true"
+        android:color="@color/tab_icon_tint" />
+
+    <item
+        android:id="@+id/log"
+        android:icon="@drawable/p_save"
+        android:title="@string/tab_txt_download"
+        android:color="@color/tab_icon_tint" />
+    <item
+        android:id="@+id/doc"
+        android:icon="@drawable/settings"
+        android:color="@color/tab_icon_tint"
+        android:title="@string/tab_txt_settings" />
+
+</menu>

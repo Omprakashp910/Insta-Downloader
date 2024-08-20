@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#27293A</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#27293A</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--UI Colors-->
+    <color name="main_bg_home_color">#000000</color>
+    <color name="txt_bg_color">#fff</color>
+    <color name="download_btn_text_color">#fff</color>
+    <color name="help_text_color">#FFFFFF</color>
+    <color name="help_bg_color">#FFFFFF</color>
+
+    <!--settings UI-->
+    <color name="settings_icon_color">#fff</color>
+    <color name="switch_track_color">#CACACA</color>
+    <color name="switch_thumb_color">#38C642</color>
+    <color name="settings_divider_color">#fff</color>
+    <color name="setting_txt_color">#fff</color>
+
+
+
+
+    <color name="main_activity_bg">#000000</color>
+    <color name="bubbletab_disabled_icon_color">#878787</color>
+    <color name="icon_green">#38C642</color>
+    <color name="dilog_downloading">#000000</color>
+    <color name="dilog_loading">#000000</color>
+    <color name="paste_clipbord">#FFFFFF</color>
+    <color name="paste_cancel">#000000</color>
+    <color name="paste_btn_text_color">#FFFFFF</color>
+    <color name="recent_down_txt">#000000</color>
+    <color name="vedio_palyer_time">#FFFFFF</color>
+    <color name="vedio_palyer_time_total">#FFFFFF</color>
+    <color name="tab_icon_tint">#FFFFFF</color>
+    <color name="main_ac_bg">#FFFFFF</color>
+    <color name="vedio_preview_bg">#070707</color>
+    <color name="download_ac_bg">#777777</color>
+    <color name="download_frag_bg">#212121</color>
+
+
+    <color name="home_frag_bg">#777777</color>
+    <color name="setting_frag_bg">#212121</color>
+
+    <color name="preview_screen_bag">#212121</color>
+
+    <color name="privacy_screen_top">#000000</color>
+    <color name="privacy_btn_back_top">#FFFCFC</color>
+    <color name="privacy_txt_top">#F4EFEF</color>
+    <color name="spash_screen_bg">#060505</color>
+    <color name="shere_btn">#FFFFFF</color>
+    <color name="recent_play_cardview">#FFFFFF</color>
+
+
+</resources>

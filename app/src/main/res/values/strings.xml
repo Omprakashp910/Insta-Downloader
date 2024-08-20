@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Videos Downloader for Instagram</string>
+
+    <string name="foldername" translatable="false">Insta Saver</string>
+    <string name="folderwa" translatable="false">Insta Saver</string>
+
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="exit_alert">Press back again to Exit</string>
+
+    <string name="invalid">Invalid URL!!!</string>
+    <string name="wapp_permission">Click on this button and Allow permission to access your status</string>
+    <string name="allow_storage_access">Allow storage access</string>
+    <string name="step_1">Step 1</string>
+    <string name="first_step">Tap on icon to open Whatsapp and First you have to see Status from Whatsapp</string>
+    <string name="wa_first_step">Tap on icon to open WA Business and First you have to see Status from Whatsapp Business</string>
+    <string name="step_2">Step 2</string>
+    <string name="second_step">Once you seen Status in Whatsapp then open this application</string>
+    <string name="wa_second_step">Once you seen Status in Whatsapp Business then open this application</string>
+    <string name="step_3">Step 3</string>
+    <string name="step_three">Your seen status will be here in this app and from here you can Download and Share</string>
+
+
+    <!--insta-->
+    <string name="dl_started" translatable="false">Download started</string>
+    <string name="downloaded" translatable="false">Media downloaded successfully</string>
+    <string name="downloading" translatable="false">"Please wait...Downloading Media"</string>
+    <string name="write_permission_msg">Write Storage permission is required to save videos and images</string>
+    <string name="yes">Yes</string>
+    <string name="permission_req">Permission Required</string>
+    <string name="instagram_not_found">Please Install Instagram First For Use This App.</string>
+
+
+    <string name="instagram">Instagram</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reel_downloader">Reel Downloader</string>
+    <string name="txt_preview">Preview</string>
+    <string name="txt_share">Share</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_privacy_policy">Privacy Policy</string>
+    <string name="downloading_dialog">Downloading.....</string>
+    <string name="loading_dialog">Loading.....</string>
+    <string name="there_s_nothing_here">There\'s nothing here.</string>
+    <string name="edit_hint">Paste link here</string>
+    <string name="btn_paste_link">Paste Link</string>
+    <string name="btn_download">Download</string>
+    <string name="txt_recent_download">Recent Download</string>
+    <string name="txt_download_folder">Download Folder</string>
+    <string name="txt_dark_mode">Dark Mode</string>
+    <string name="txt_rate_us">Rate Us</string>
+    <string name="txt_share_app">Share App</string>
+    <string name="txt__privacy_policy">Privacy Policy</string>
+    <string name="txt_more_apps">More Apps</string>
+    <string name="tab_txt_home">Home</string>
+    <string name="tab_txt_download">Download</string>
+    <string name="tab_txt_settings">Settings</string>
+
+    <string name="popup2">Do you want to exit the app?</string>
+    <string name="popup3">Do you want to Delete this?</string>
+    <string name="no">Skip</string>
+    <string name="skip">No</string>
+
+
+    <!--admob ids-->
+<!--    <string name="admob_app_id">ca-app-pub-4419663388363698~6968560653</string>-->
+<!--    <string name="admob_banner_id">ca-app-pub-4419663388363698/9501270940</string>-->
+<!--    <string name="admob_interstitial"> ca-app-pub-4419663388363698/3494303785</string>-->
+<!--    <string name="admob_native">ca-app-pub-4419663388363698/1989650428</string>-->
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_native_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_reward_ad_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+
+    <!--MAX ad ids-->
+    <string name="max_banner">e26e4943cd27ddfa</string>
+    <string name="max_interstitial">8f8c3534f7c2bbcf</string>
+    <string name="max_native">d99eec7633595d66</string>
+
+<!--    <string name="max_banner">e989cdb68d36e19d</string>-->
+<!--    <string name="max_interstitial">35ed53fd1af5c572</string>-->
+<!--    <string name="max_native">b2a547ce17dcd991</string>-->
+
+<!--    FB ad ids-->
+    <string name="fb_bannerad">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string><!--IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID-->
+    <string name="fb_interad">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string><!--IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID-->
+    <string name="fb_native_ad_id">CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID</string><!--CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID-->
+    <string name="fb_reward_ad_id">YOUR_PLACEMENT_ID</string><!--YOUR_PLACEMENT_ID-->
+
+</resources>

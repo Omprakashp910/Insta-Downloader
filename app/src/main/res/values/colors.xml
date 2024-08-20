@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">@color/colorPrimaryDark</color>
+    <color name="colorAccent">@color/colorPrimaryDark</color>
+    <color name="main_bg_home_color">#FFF9FA</color>
+    <color name="txt_bg_color">#fff</color>
+    <color name="colorPrimaryDark">#0664AE</color>
+    <color name="main_activity_bg">#01579B</color>
+    <color name="bubbletab_disabled_icon_color">#F6F8F8</color>
+    <color name="help_bg_color">#ffffff</color>
+    <color name="icon_green">#F57F17</color>
+    <color name="download_btn_text_color">#fff</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dilog_downloading">#000000</color>
+    <color name="dilog_loading">#000000</color>
+    <color name="help_text_color">#000</color>
+    <color name="paste_clipbord">#FFFFFF</color>
+    <color name="paste_cancel">#000000</color>
+    <color name="paste_btn_text_color">#FFFFFF</color>
+    <color name="recent_down_txt">#000000</color>
+    <color name="settings_icon_color">#000</color>
+    <color name="switch_track_color">#D3D3D3</color>
+    <color name="switch_thumb_color">#FFFFFF</color>
+    <color name="settings_divider_color">#D3D3D3</color>
+    <color name="setting_txt_color">#000</color>
+    <color name="vedio_palyer_time">#FFFFFF</color>
+    <color name="vedio_palyer_time_total">#FFFFFF</color>
+    <color name="tab_icon_tint">#FFFFFF</color>
+    <color name="main_ac_bg">#FFFFFF</color>
+    <color name="vedio_preview_bg">#000000</color>
+    <color name="download_ac_bg">#FFFFFF</color>
+    <color name="download_frag_bg">#FFFFFF</color>
+    <color name="home_frag_bg">#FFFFFF</color>
+    <color name="setting_frag_bg">#FFFFFF</color>
+    <color name="preview_screen_bag">#FFFFFF</color>
+    <color name="privacy_screen_top">#FFFFFF</color>
+    <color name="privacy_btn_back_top">#030303</color>
+    <color name="privacy_txt_top">#0E0D0D</color>
+    <color name="spash_screen_bg">#FFFFFF</color>
+    <color name="shere_btn">#FFFFFF</color>
+    <color name="recent_play_cardview">#030303</color>
+
+
+
+
+
+</resources>
